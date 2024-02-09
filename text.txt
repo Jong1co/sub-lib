@@ -17,3 +17,6 @@
 여기가 공통으로 수정된 곳임
 
 remote update
+
+
+git-test 레포에서 수정함
