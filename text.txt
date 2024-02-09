@@ -2,3 +2,13 @@
 333
 
 서브모듈 함께 수정 테스트
+
+
+22
+
+- 상위 레포에서 서브모듈의 레포를 수정하고, 커밋하지 않았을 때 커밋 메세지 뒤에 dirty가 붙음
+
+```
+-Subproject commit cfa8b41578fcc6c99691c73d945bf4107c00746f
++Subproject commit cfa8b41578fcc6c99691c73d945bf4107c00746f-dirty
+```
